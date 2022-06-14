@@ -13,6 +13,8 @@ Ignite Feed
 
 Aplicação criada com React utilizando o Vite para prática dos conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript para adicionar tipagem estática.
 
+A aplicação consiste em um feed, onde é possível comentar, excluir e dar likes para cada postagem.
+
 ## 🛠 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias
