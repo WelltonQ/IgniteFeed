@@ -43,7 +43,9 @@ $ npm run dev
 ```
 
 <p align="center">
-<img alt="Home" src="https://user-images.githubusercontent.com/12499627/173670320-8951ba09-1e1b-4b63-b911-b8bbd574b349.png" />
+<img alt="Imagem demonstrativa do app" src="https://user-images.githubusercontent.com/12499627/173670320-8951ba09-1e1b-4b63-b911-b8bbd574b349.png" />
+
+<img alt="Vídeo demonstrativo do app" src="https://user-images.githubusercontent.com/12499627/174882300-dd20dd42-6b05-4b08-b017-41abb63e0500.gif" />  
 </p>
 
 ---
